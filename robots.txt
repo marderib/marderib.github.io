@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://marderib.github.io/sitemap.html.gz
+Sitemap: https://marderib.github.io/app/sitemap.html.gz
+Sitemap: https://marderib.github.io/assets/sitemap.html.gz
+Sitemap: https://marderib.github.io/css/sitemap.html.gz
+Sitemap: https://marderib.github.io/data/sitemap.html.gz
+Sitemap: https://marderib.github.io/includes/sitemap.html.gz
+Sitemap: https://marderib.github.io/item/sitemap.html.gz
+Sitemap: https://marderib.github.io/src/sitemap.html.gz
